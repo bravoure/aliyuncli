@@ -1,2 +1,2 @@
-# aliyuncli
-Docker container for the Aliyun CLI
+# aliyumcli
+Docker container for the Aliyum CLI
